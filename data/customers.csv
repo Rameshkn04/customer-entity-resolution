@@ -1,0 +1,28 @@
+customer_id,name,email,phone,address
+1,Ramesh K N,ramesh@gmail.com,9876543210,Bangalore
+2,Ramesh KN,ramesh@gmail.com,9876543210,Bengaluru
+3,Ramesh Kumar,ramesh.k@gmail.com,9876543211,Bangalore
+4,Suresh Kumar,suresh@gmail.com,9123456780,Mysore
+
+5,Ramesh K.,ramesh@gmail.com,9876543210,Bengaluru
+6,Ramesh Kumar N,ramesh.k@gmail.com,9876543211,Bangalore
+7,Suresh K,suresh@gmail.com,9123456780,Mysuru
+
+8,Anita Sharma,anita@gmail.com,9988776655,Delhi
+9,Anita S.,anita@gmail.com,9988776655,New Delhi
+10,Anita Sharma,anita.s@gmail.com,9988776656,Delhi
+
+11,Rohit Verma,rohit@gmail.com,8899776655,Mumbai
+12,Rohit V,rohit@gmail.com,8899776655,Mumbai
+13,Rohit Verma,rohit.v@gmail.com,8899776656,Mumbai
+
+14,Pooja Patel,pooja@gmail.com,7766554433,Ahmedabad
+15,Pooja P.,pooja@gmail.com,7766554433,Ahemdabad
+
+16,Amit Singh,amit@gmail.com,6655443322,Jaipur
+17,Amit Kumar Singh,amit@gmail.com,6655443322,Jaipur
+
+18,Neha Joshi,neha@gmail.com,5544332211,Pune
+19,Neha J,neha@gmail.com,5544332211,Pune
+
+20,Arjun Mehta,arjun@gmail.com,4433221100,Indore
