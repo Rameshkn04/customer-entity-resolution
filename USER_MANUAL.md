@@ -126,5 +126,3 @@ Document any changes to defaults in the notebook so results remain reproducible.
 For questions, issues, or enhancement requests, please open an issue in the project repository or contact the maintainer listed in `README.md`.
 
 ---
-
-```
