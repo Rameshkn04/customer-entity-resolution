@@ -127,7 +127,4 @@ For questions, issues, or enhancement requests, please open an issue in the proj
 
 ---
 
-Thank you for using the Customer Record Entity Resolution system. If you would like, I can:
-- Update the notebook with configurable parameters and a small configuration cell, or
-- Produce a concise README update using content from this manual.
 ```
